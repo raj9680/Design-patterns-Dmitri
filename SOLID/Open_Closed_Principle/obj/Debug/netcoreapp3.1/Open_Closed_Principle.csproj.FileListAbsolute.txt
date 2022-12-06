@@ -1,0 +1,14 @@
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\bin\Debug\netcoreapp3.1\Open_Closed_Principle.exe
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\bin\Debug\netcoreapp3.1\Open_Closed_Principle.deps.json
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\bin\Debug\netcoreapp3.1\Open_Closed_Principle.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\bin\Debug\netcoreapp3.1\Open_Closed_Principle.runtimeconfig.dev.json
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\bin\Debug\netcoreapp3.1\Open_Closed_Principle.dll
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\bin\Debug\netcoreapp3.1\Open_Closed_Principle.pdb
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.dll
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.pdb
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\SOLID\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.genruntimeconfig.cache
