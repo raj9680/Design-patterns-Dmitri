@@ -16,22 +16,14 @@ namespace Open_Closed_Principle
     class Program
     {
 
-        public enum Color
-        {
-            Red, Green, Blue
-        }
-        public enum Size
-        {
-            Small, Medium, Large
-        }
+        public enum Color { Red, Green, Blue }
+        public enum Size { Small, Medium, Large }
 
 
         public class Product
         {
             public string Name;
-            // Requirement 1 - Entity
             public Color Color;
-            // Requirement 2 - Entity
             public Size Size;
 
             // CTOR for initialing Product fields
