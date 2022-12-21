@@ -15,19 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface_Segregation_Princ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dependency_Inversion _Principle", "Dependency_Inversion _Principle\Dependency_Inversion _Principle.csproj", "{4BD9FB3F-8242-41C0-9C4E-4DD77103EE2F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CREATIONAL", "CREATIONAL", "{CA76EAE5-2300-44B8-AAD9-B8DB496CE037}"
-	ProjectSection(SolutionItems) = preProject
-		Builder.cs = Builder.cs
-		readme-life-without-builder.txt = readme-life-without-builder.txt
-	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mains", "Builder\Mains.csproj", "{2FD32346-0C0F-452F-8234-4D65848D1FBB}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "zReadme", "zReadme", "{46DC6FDE-A5A0-44C2-8F2F-85C5A3D5F8B6}"
-	ProjectSection(SolutionItems) = preProject
-		readme.txt = readme.txt
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,10 +41,6 @@ Global
 		{4BD9FB3F-8242-41C0-9C4E-4DD77103EE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BD9FB3F-8242-41C0-9C4E-4DD77103EE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BD9FB3F-8242-41C0-9C4E-4DD77103EE2F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2FD32346-0C0F-452F-8234-4D65848D1FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2FD32346-0C0F-452F-8234-4D65848D1FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2FD32346-0C0F-452F-8234-4D65848D1FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2FD32346-0C0F-452F-8234-4D65848D1FBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,7 +51,6 @@ Global
 		{85497B6F-25E7-46B7-A96B-8823BC4242DA} = {86E9961E-AE78-4205-BDB8-530CCA229C00}
 		{3CA8A476-8D43-4ED8-B4BA-3471B6D72059} = {86E9961E-AE78-4205-BDB8-530CCA229C00}
 		{4BD9FB3F-8242-41C0-9C4E-4DD77103EE2F} = {86E9961E-AE78-4205-BDB8-530CCA229C00}
-		{2FD32346-0C0F-452F-8234-4D65848D1FBB} = {CA76EAE5-2300-44B8-AAD9-B8DB496CE037}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53875D7E-0AC5-4A08-9A93-8CAD3B3E217E}

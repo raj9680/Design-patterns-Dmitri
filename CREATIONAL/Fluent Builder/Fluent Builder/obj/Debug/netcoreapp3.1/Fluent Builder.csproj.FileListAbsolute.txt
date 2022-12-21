@@ -1,0 +1,14 @@
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\bin\Debug\netcoreapp3.1\Fluent Builder.exe
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\bin\Debug\netcoreapp3.1\Fluent Builder.deps.json
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\bin\Debug\netcoreapp3.1\Fluent Builder.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\bin\Debug\netcoreapp3.1\Fluent Builder.runtimeconfig.dev.json
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\bin\Debug\netcoreapp3.1\Fluent Builder.dll
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\bin\Debug\netcoreapp3.1\Fluent Builder.pdb
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\obj\Debug\netcoreapp3.1\Fluent Builder.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\obj\Debug\netcoreapp3.1\Fluent Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\obj\Debug\netcoreapp3.1\Fluent Builder.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\obj\Debug\netcoreapp3.1\Fluent Builder.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\obj\Debug\netcoreapp3.1\Fluent Builder.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\obj\Debug\netcoreapp3.1\Fluent Builder.dll
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\obj\Debug\netcoreapp3.1\Fluent Builder.pdb
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fluent Builder\Fluent Builder\obj\Debug\netcoreapp3.1\Fluent Builder.genruntimeconfig.cache

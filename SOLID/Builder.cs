@@ -2,7 +2,6 @@
 
 public class HtmlElement
 {
-
 }
 
 public class Builder
