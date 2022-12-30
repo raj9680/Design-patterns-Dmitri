@@ -1,0 +1,14 @@
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\bin\Debug\netcoreapp3.1\Factory Method.exe
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\bin\Debug\netcoreapp3.1\Factory Method.deps.json
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\bin\Debug\netcoreapp3.1\Factory Method.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\bin\Debug\netcoreapp3.1\Factory Method.runtimeconfig.dev.json
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\bin\Debug\netcoreapp3.1\Factory Method.dll
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\bin\Debug\netcoreapp3.1\Factory Method.pdb
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory Method.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory Method.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory Method.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory Method.dll
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory Method.pdb
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory Method.genruntimeconfig.cache

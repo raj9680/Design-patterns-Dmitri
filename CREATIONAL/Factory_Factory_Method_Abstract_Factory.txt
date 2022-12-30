@@ -1,0 +1,12 @@
+
+                                                  *********************
+                                                  ***** IMPORTANT *****
+                                                  *********************
+
+1). Factory: Factory itself is responsible for instantiating the object.
+
+2). Factory Method: Factory Method also responsible for instantiating the object but the instatiation logic will be delegated to
+sub class inheriting the factory.
+
+3). Abstract Factory: Abstract factory is not at all responsible for instantiating instead it will create another concrete factory
+and force it to have the creation of at least those object which is mentioned in the abstract factory class.

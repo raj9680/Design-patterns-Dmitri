@@ -2,7 +2,7 @@
 
 namespace Builder.Builders
 {
-    class MargaritaBuilder: IPizzaBuilder
+    class MargaritaBuilder : IPizzaBuilder
     {
         private readonly Pizza _pizza = new Pizza();
         public void SetName()

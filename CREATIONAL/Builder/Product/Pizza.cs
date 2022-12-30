@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Builder.Product
+﻿namespace Builder.Product
 {
     public class Pizza
     {

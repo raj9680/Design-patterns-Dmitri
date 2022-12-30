@@ -2,7 +2,7 @@
 
 namespace Builder.Builders
 {
-    class FarmHouseBuilder: IPizzaBuilder
+    class FarmHouseBuilder : IPizzaBuilder
     {
         private readonly Pizza _pizza = new Pizza();
         public IPizzaBuilder SetName(string name)

@@ -1,6 +1,7 @@
 ﻿using Factory.Product;
 using System;
 
+/* Factory is responsible for creating the object based on client call */
 namespace Factory.Factory
 {
     class IcecreamFactory : IIcecreamFactory

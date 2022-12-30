@@ -4,7 +4,6 @@ C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fac
 C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.dev.json
 C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.dll
 C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.pdb
-C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.AssemblyReference.cache
 C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
 C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs
@@ -12,3 +11,4 @@ C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Fac
 C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.dll
 C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.pdb
 C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.AssemblyReference.cache

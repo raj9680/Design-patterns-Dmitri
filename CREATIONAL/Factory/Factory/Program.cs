@@ -3,7 +3,9 @@ using Factory.Product;
 using System;
 using System.Collections.Generic;
 
-/* 
+/*
+Factory => A component responsible solely for the wholesale (not piecewise).
+
 The Factory Method design pattern solves problems like
 1). How can an object be created so that subclasses can redefine which class to instantiate?
 2). How can a class defer instantiation to subclasses?
