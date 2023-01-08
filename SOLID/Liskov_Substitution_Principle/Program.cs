@@ -32,6 +32,8 @@ namespace Liskov_Substitution_Principle // Good
         public override int Height { set { base.Width = base.Height = value; } }
     }
 
+
+
     // Mains
     class Program
     {

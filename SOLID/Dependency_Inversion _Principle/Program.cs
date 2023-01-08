@@ -19,7 +19,7 @@ namespace Dependency_Inversion__Principle
     }
 
 
-    // High Level Class
+    // High Level Class - Details
     class Calculator
     {
         private ICalculatorOperation _calculator;
@@ -34,6 +34,7 @@ namespace Dependency_Inversion__Principle
     }
 
 
+    
     // Low Level Classes
     public class AddCalculatorOperation : ICalculatorOperation
     {

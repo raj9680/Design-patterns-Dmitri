@@ -3,17 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{86E9961E-AE78-4205-BDB8-530CCA229C00}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chain of Responsibility", "Chain of Responsibility", "{50DBCC92-BFBC-4938-887F-B95101052BDF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single_Responsibility_Principle", "Single_Responsibility_Principle\Single_Responsibility_Principle.csproj", "{C8C7EA45-2DF2-46B3-9C6A-F55BAB8BCEA3}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Open_Closed_Principle", "Open_Closed_Principle\Open_Closed_Principle.csproj", "{8CA3FFA5-5DCD-45F4-B49B-4E90DCE29E1C}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Liskov_Substitution_Principle", "Liskov_Substitution_Principle\Liskov_Substitution_Principle.csproj", "{85497B6F-25E7-46B7-A96B-8823BC4242DA}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface_Segregation_Principle", "Interface_Segregation_Principle\Interface_Segregation_Principle.csproj", "{3CA8A476-8D43-4ED8-B4BA-3471B6D72059}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dependency_Inversion _Principle", "Dependency_Inversion _Principle\Dependency_Inversion _Principle.csproj", "{4BD9FB3F-8242-41C0-9C4E-4DD77103EE2F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain of Responsibility", "Chain of Responsibility\Chain of Responsibility\Chain of Responsibility.csproj", "{2A83CB2E-088E-4913-9FF1-D23BAE6D05A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,36 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C8C7EA45-2DF2-46B3-9C6A-F55BAB8BCEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8C7EA45-2DF2-46B3-9C6A-F55BAB8BCEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8C7EA45-2DF2-46B3-9C6A-F55BAB8BCEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8C7EA45-2DF2-46B3-9C6A-F55BAB8BCEA3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8CA3FFA5-5DCD-45F4-B49B-4E90DCE29E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8CA3FFA5-5DCD-45F4-B49B-4E90DCE29E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8CA3FFA5-5DCD-45F4-B49B-4E90DCE29E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8CA3FFA5-5DCD-45F4-B49B-4E90DCE29E1C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{85497B6F-25E7-46B7-A96B-8823BC4242DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{85497B6F-25E7-46B7-A96B-8823BC4242DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{85497B6F-25E7-46B7-A96B-8823BC4242DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{85497B6F-25E7-46B7-A96B-8823BC4242DA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3CA8A476-8D43-4ED8-B4BA-3471B6D72059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3CA8A476-8D43-4ED8-B4BA-3471B6D72059}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3CA8A476-8D43-4ED8-B4BA-3471B6D72059}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3CA8A476-8D43-4ED8-B4BA-3471B6D72059}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4BD9FB3F-8242-41C0-9C4E-4DD77103EE2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4BD9FB3F-8242-41C0-9C4E-4DD77103EE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4BD9FB3F-8242-41C0-9C4E-4DD77103EE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4BD9FB3F-8242-41C0-9C4E-4DD77103EE2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A83CB2E-088E-4913-9FF1-D23BAE6D05A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A83CB2E-088E-4913-9FF1-D23BAE6D05A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A83CB2E-088E-4913-9FF1-D23BAE6D05A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A83CB2E-088E-4913-9FF1-D23BAE6D05A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{C8C7EA45-2DF2-46B3-9C6A-F55BAB8BCEA3} = {86E9961E-AE78-4205-BDB8-530CCA229C00}
-		{8CA3FFA5-5DCD-45F4-B49B-4E90DCE29E1C} = {86E9961E-AE78-4205-BDB8-530CCA229C00}
-		{85497B6F-25E7-46B7-A96B-8823BC4242DA} = {86E9961E-AE78-4205-BDB8-530CCA229C00}
-		{3CA8A476-8D43-4ED8-B4BA-3471B6D72059} = {86E9961E-AE78-4205-BDB8-530CCA229C00}
-		{4BD9FB3F-8242-41C0-9C4E-4DD77103EE2F} = {86E9961E-AE78-4205-BDB8-530CCA229C00}
+		{2A83CB2E-088E-4913-9FF1-D23BAE6D05A6} = {50DBCC92-BFBC-4938-887F-B95101052BDF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53875D7E-0AC5-4A08-9A93-8CAD3B3E217E}

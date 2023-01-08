@@ -11,4 +11,3 @@ C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Bui
 C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Builder\obj\Debug\netcoreapp3.1\Builder.dll
 C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
 C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
-C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\raj.kumar\Desktop\Design Patterns\Design-patterns-Dmitri\CREATIONAL\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
